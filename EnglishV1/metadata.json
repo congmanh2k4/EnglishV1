@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Pro-nounce",
+  "description": "An AI-powered English pronunciation coach focusing on sentence-level prosody, intonation, and connected speech.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
