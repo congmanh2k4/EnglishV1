@@ -10,7 +10,6 @@
 
 Project này bao gồm 2 phần:
 
-
 -  **Frontend** (`EnglishV1/`): React + TypeScript + Vite + Tailwind CSS
 -  **Backend** (`backend/`): Express + TypeScript + Gemini AI
 
